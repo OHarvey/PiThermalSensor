@@ -1,0 +1,11 @@
+#KEYs in Caps, value in any Case
+# T in seconds
+POLLRATE = 120
+#Location of pi
+NODENAME = TESTING_ROOM
+#Sensor IDs - to be in order to the zone labels
+ID = 28-011564a5ccff
+ID = 28=021564a38bff
+# Zone label should match the order of ID 
+ZONE = Sensor_Room_Temp
+ZONE = Sensor_PI
