@@ -1,8 +1,8 @@
-# PiThermalSensor
+# PiThermalSensor  
 Measure Temperature from multiple DS18B20 digital temperature sensors and post data to a SQL database
 ## Dependancies
 * SQL
-* MySQLdb
+* MySQLdb    
 
 ## How to get started
 * Install the SQL Client to the PI: `sudo apt-get install mysql-client`
