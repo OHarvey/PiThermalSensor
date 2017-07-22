@@ -1,7 +1,7 @@
 import os
 import MySQLdb # need to install 
 import time
-
+# comment added
 #DB constants 
 HOST = None
 USERNAME = None
