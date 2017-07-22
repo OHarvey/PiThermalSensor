@@ -6,7 +6,7 @@ Measure Temperature from multiple DS18B20 digital temperature sensors and post d
 
 ## How to get started
 * Install the SQL Client to the PI: `sudo apt-get install mysql-client`
-* Install MySQLdb api to the PI: `sudo apt-get install python-mysqldb`
+* Install MySQLdb api to the PI: `sudo apt-get install python-mysqldb`       
  
 
 ## Database layout
